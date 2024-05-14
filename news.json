@@ -1,0 +1,36 @@
+{
+	"newsTiles": [
+		{
+			"id": 5,
+			"type": "news",
+			"headline": "First Responders",
+			"body": "RSET turns 3D Scans into highly immersive simulations where high risk events can be safely replicated.",
+			"thumbnailURL": "https://rset.com/wp-content/uploads/2022/09/fire.png",
+			"link": "https://rset.com/publicsafety/"
+		},
+		{
+			"id": 6,
+			"type": "news",
+			"headline": "Litigation and Trial",
+			"body": "Don’t settle for static, single perspective animations or videos. With RSET, the jury can re-live the incident in question.",
+			"thumbnailURL": "https://rset.com/wp-content/uploads/2022/09/jury-flipped-930x620.jpg",
+			"link": "https://rset.com/litigation/"
+		},
+		{
+			"id": 7,
+			"type": "news",
+			"headline": "Gaming in Your Scan",
+			"body": "RSET turns your 3D environment into a zombie survival game.",
+			"thumbnailURL": "https://zombiesirl.com/wp-content/uploads/2023/03/gameplay_loop_graphic_v4.png",
+			"link": "https://rset.com/consumers/"
+		},
+		{
+			"id": 8,
+			"type": "news",
+			"headline": "Scenario Creation Service",
+			"body": "Do you want custom crafted scenarios in your environment but don't want to do it yourself? We can help! RSET will create any scenarios you need.",
+			"thumbnailURL": "https://rset.com/wp-content/uploads/2022/09/pexels-andrea-piacquadio-789822-1024x683.jpg",
+			"link": "https://rset.com/"
+		},		
+	]
+}
